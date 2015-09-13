@@ -1,0 +1,24 @@
+﻿生成启动时间为 2015/8/28 19:01:15。
+     1>项目“D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\BufferDLL\BufferDLL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\软件\visual studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D BUFFERDLL_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\BufferDLL.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\软件\visual studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D BUFFERDLL_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\BufferDLL.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt BufferDLL.cpp
+         BufferDLL.cpp
+         D:\软件\visual studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D BUFFERDLL_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /FR"Release\\" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         D:\软件\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.lib" /MACHINE:X86 /SAFESEH /DLL Release\BufferDLL.obj
+         Release\dllmain.obj
+         Release\stdafx.obj
+            正在创建库 D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.lib 和对象 D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.exp
+         正在生成代码
+         已完成代码的生成
+         BufferDLL.vcxproj -> D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.dll
+       BscMake:
+         D:\软件\visual studio\VC\bin\bscmake.exe /nologo /o"D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\Release\BufferDLL.bsc" /n Release\BufferDLL.sbr Release\dllmain.sbr Release\stdafx.sbr
+     1>已完成生成项目“D:\Downloads\StreamBufferDLL框架与测试程序（2015.07.24）学生\StreamBufferDLL框架与测试程序（2015.07.24）学生\BufferDLL\BufferDLL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.71
